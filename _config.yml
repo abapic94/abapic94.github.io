@@ -1,8 +1,8 @@
 github:
   is_project_page: false
 theme: jekyll-theme-hacker
-title: Nina Klobas
-logo: slika.jpg
+title: Amar Bapić
+logo: slika.png
 
 plugins:
   - jekyll-relative-links
