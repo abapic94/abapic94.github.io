@@ -18,7 +18,7 @@ Recently completed and defended my Ph.D thesis entitled [**Constructing new supe
 
 ## Publications
 
-### Conference Publications
+### Journal Publications
 - A. Bapić, E. Pasalic, F. Zhang, and S. Hodžić. **Constructing new superclasses of bent functions from known ones**. Cryptogr. Commun., 2022. [(DOI)](https://doi.org/10.1007/s12095-022-00566-7)
 - A. Bapić and E. Pasalic. **Constructions of (vectorial) bent functions outside the completed Maiorana–McFarland class**. Discret. Appl. Math., volume 314, pages 197–212, 2022. [(DOI)](https://www.sciencedirect.com/science/article/pii/S0166218X22000531?via%3Dihub)
 - A. Bapić, E. Pasalic, and S. Hodžić. **Quadratic almost bent functions—their partial characterization and design in the spectral domain**. Discret. Appl. Math., volume 322, pages 217–236, 2022. [(DOI)](https://doi.org/10.1016/j.dam.2022.08.019)
