@@ -43,7 +43,6 @@ PhD at __FAMNIT, University of Primorska__ under the supervison of [Enes Pasalic
 - `2017 - 2019`
 MSc in Mathematics at __FAMNIT, University of Primorska__
 
-
 - `2013 - 2017`
 BSc in Mathematics at __Faculty of Mathematics and Natural Sciences, University of Tuzla__
 
@@ -53,7 +52,6 @@ BSc in Mathematics at __Faculty of Mathematics and Natural Sciences, University 
 
 ## Talks
 
-Talks
 - Title: **Constructing new superclasses of bent functions from known ones** (joint work with E. Pasalic and F. Zhang). The 6th International Workshop on Boolean Functions and their Applications (BFA) Dedicated to Vincent Rijmen’s 50th anniversary, September 6 – September 10, 2021 Rosendal, Norway / Hybrid.
 - Title: [**The Zodiac Killer’s cipher**](https://www.youtube.com/watch?v=16YufVWBGzQ). "Matematika s kavca" organised by II. gimnazija Maribor for gifted high-school students in the area of mathematics, January 12, 2021.
 - Title: **Some classifications of bent functions*. Mathematical Colloquium at the Department of Mathematics, Faculty of Mathematics and Natural Sciences in Tuzla, December 25, 2019.
