@@ -1,6 +1,6 @@
 ## About me
 
-Recently completed and defended my Ph.D thesis entitled "Constructing new superclasses of bent functions and further constructions of cryptographically significant mappings outside M#" in December 2022 at the Univeristy of Primorska.  
+Recently completed and defended my Ph.D thesis entitled [**"Constructing new superclasses of bent functions and further constructions of cryptographically significant mappings outside M#"**](https://www.famnit.upr.si/sl/studij/zakljucna_dela/view/1147) in December 2022 at the Univeristy of Primorska.  
 
 
 ## Contact and profiles
