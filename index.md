@@ -54,7 +54,7 @@ BSc in Mathematics at __Faculty of Mathematics and Natural Sciences, University 
 
 - Title: **Constructing new superclasses of bent functions from known ones** (joint work with E. Pasalic and F. Zhang). The 6th International Workshop on Boolean Functions and their Applications (BFA) Dedicated to Vincent Rijmen’s 50th anniversary, September 6 – September 10, 2021 Rosendal, Norway / Hybrid.
 - Title: [**The Zodiac Killer’s cipher**](https://www.youtube.com/watch?v=16YufVWBGzQ). "Matematika s kavca" organised by II. gimnazija Maribor for gifted high-school students in the area of mathematics, January 12, 2021.
-- Title: **Some classifications of bent functions*. Mathematical Colloquium at the Department of Mathematics, Faculty of Mathematics and Natural Sciences in Tuzla, December 25, 2019.
+- Title: **Some classifications of bent functions**. Mathematical Colloquium at the Department of Mathematics, Faculty of Mathematics and Natural Sciences in Tuzla, December 25, 2019.
 - Title: **On the notion of duals of certain almost bent functions** (joint work with E. Pasalic and S. Hodžic). Middle-European Conference on Applied Theoretical Computer Science, October 10 - 11, 2019, Koper, Slovenia.
 - Title: **Zero-knowledge proofs**. Mathematical Colloquium at the Department of Mathematics, Faculty of Mathematics and Natural Sciences in Tuzla, Februrary 2, 2019.
 
