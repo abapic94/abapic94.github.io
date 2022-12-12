@@ -1,46 +1,66 @@
-## I am
-A third year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
+## About me
+
+Recently completed and defended my Ph.D thesis entitled "Constructing new superclasses of bent functions and further constructions of cryptographically significant mappings outside M#" in December 2022 at the Univeristy of Primorska.  
+
 
 ## Contact and profiles
-- nina [dot] klobas [at] durham [dot] ac [dot] uk
-- [ORCID ID](https://orcid.org/0000-0002-8024-5782)
-- [Research Gate](https://www.researchgate.net/profile/Nina_Klobas)
-- [LinkedIn](https://www.linkedin.com/in/nina-klobas)
+- amarbapic7 [at] gmail [dot] com
+- [ORCID ID](https://orcid.org/0000-0002-3568-4321)
+- [Research Gate](https://www.researchgate.net/profile/Amar_Bapic)
+- [LinkedIn](https://www.linkedin.com/in/amarbapic/)
 
 ## Research interests
 
-- Algorithmic Graph Theory
-- Efficient Algorithms Computational Complexity
-- Temporal Graphs
+- (Vectorial) Boolean Fuctions
+- Duals of plateaued Boolean Functions
+- Construction of new (vectorial) bent functions outside the Maiorana-McFarland class
+
 
 ## Publications
 
 ### Conference Publications
-- N. Klobas, G. B.  Mertzios, H. Molter, and P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**. In proceedings of the 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), Vienna, Austria, August 2022. [(PDF)](https://drops.dagstuhl.de/opus/volltexte/2022/16860/)
-- T. Hamm, N. Klobas, G.B. Mertzios, and P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/21259)
-- N. Klobas and M. Krnc, **Distinguishing graphs via cycles**. In Proceedings of the 27th International Computing and Combinatorics Conference (COCOON), Tainan, Taiwan, October 2021. [(PDF)](https://link.springer.com/chapter/10.1007/978-3-030-89543-3_33)
-- N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, August 2021. [(PDF)](https://www.ijcai.org/proceedings/2021/0563.pdf)
+- A. Bapić, E. Pasalic, F. Zhang, and S. Hodžić. **Constructing new superclasses of bent functions from known ones**. Cryptogr. Commun., 2022. [(DOI)](https://doi.org/10.1007/s12095-022-00566-7)
+- A. Bapić and E. Pasalic. **Constructions of (vectorial) bent functions outside the completed Maiorana–McFarland class**. Discret. Appl. Math., volume 314, pages 197–212, 2022. [(DOI)](https://www.sciencedirect.com/science/article/pii/S0166218X22000531?via%3Dihub)
+- A. Bapić, E. Pasalic, and S. Hodžić. **Quadratic almost bent functions—their partial characterization and design in the spectral domain**. Discret. Appl. Math., volume 322, pages 217–236, 2022. [(DOI)](https://doi.org/10.1016/j.dam.2022.08.019)
+- A. Bapić and E. Pasalic. **A new method for secondary constructions of vectorial bent functions**. Des. Codes Cryptography, volume 89, pages 2463–2475, 2021. [(DOI)](doi.org/10.1007/s10623-021-00930-3)
 
 ### Preprints
-- N. Klobas, G. B.  Mertzios, H. Molter, P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
-- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**, 2022, [arXiv:2204.04832](https://arxiv.org/abs/2204.04832) [cs.DS].
-- N. Klobas, G.B. Mertzios, H. Molter, P.G. Spirakis. **The complexity of computing optimum labelings for temporal connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
-- N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**, 2021, [arXiv:2105.08335](https://arxiv.org/abs/2105.08335) [cs.DS].
-- N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
+- A. Bapić, E. Pasalic, A. Polujan, and A. Pott. Vectorial boolean functions with the maximum number of bent components outside the M# class, 2022. [PDF](https://www.wcc2022.uni-rostock.de/storages/uni-rostock/Tagungen/WCC2022/Papers/WCC_2022_paper_9.pdf)
+- A. Bapić. Secondary constructions of vectorial p-ary weakly regular bent functions, 2022. [PDF](https://arxiv.org/submit/4600103/view)
+- E. Pasalic, A. Bapić, F. Zhang, and Y.Wei. Explicit infinite families of bent functions outside M#, 2022. [PDF](https://eprint.iacr.org/2022/1126)
+- F. Zhang, E. Pasalic, A. Bapić and B. Wang. Applications of the indirect sum in the design of several special classes of bent functions outside the completed M class, 2022. [PDF](https://eprint.iacr.org/2022/8697)
 
+### Study Materials
+- A. Bapić. **Exercises and solutions in rings and fields: notebook for Algebra IV - algebraic structures: other study textbook: Mathematics, 1st bologna cycle. pages 1–78. Fakulteta za matematiko, naravoslovje in informacijske tehnologije, 2021. [PDF](https://www.famnit.upr.si/sl/resources/files/knjiznica/studijsko-gradivo/bapic2021exercisesandsolutions-algiv.pdf)
+- A. Bapić. **Analiza 2 - infinitezimalni racun: zbirka rešenih nalog: drugo ucno gradivo: dodiplomski študijski programi matematika, matematika v ekonomiji in financah, bioinformatika. pages 1–111. Fakulteta za matematiko, naravoslovje in informacijske tehnologije, 2020. [PDF](https://www.famnit.upr.si/sl/resources/files/knjiznica/studijsko-gradivo/bapic2020analizaii-zbirkaresenihnalog.pdf)
+- A. Bapić and V. Vitrih. **Selected topics in numerical mathematics, lecture notes, other study textbook: Mathematical sciences, 2nd bologna cycle. pages 1–80. Fakulteta za matematiko, naravoslovje in informacijske tehnologije, 2019. [PDF](https://www.famnit.upr.si/sl/resources/files/knjiznica/studijsko-gradivo/bapic-vitrih2019stnmstudijsko-gradivo.pdf)
 
 ## Education
 
-- `2020 - present`
-PhD at __Durham University__ under the supervison of [George B. Mertzios](https://mertzios.github.io/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
+- `2019 - 2022`
+PhD at __FAMNIT, University of Primorska__ under the supervison of [Enes Pasalic](https://www.researchgate.net/profile/Enes-Pasalic) and co-supervision of [Samir Hodžić](https://www.researchgate.net/profile/Samir-Hodzic)
 
-- `2015 - 2020`
-BSc and MSc in Mathematics at __FAMNIT, University of Primorska__
+- `2017 - 2019`
+MSc in Mathematics at __FAMNIT, University of Primorska__
+
+
+- `2013 - 2017`
+BSc in Mathematics at __Faculty of Mathematics and Natural Sciences, University of Tuzla__
 
 ## Teaching
-- `2020 - 2021` demonstrator of Theory of Computation
-- `2021 - 2022` demonstrator of Theory of Computation, Computational Thinking, Project Preparation
-- `2022 - 2023` demonstrator of Theory of Computation, Computational Thinking, Project Preparation
+- `2020 - 2022` TA for Algebra IV - Algebraic Structures,
+- `2020` TA for Analysis II - Infinitesimal Calculus
 
-## Quantum Physics
-- If interested in *non-equilibrium statistical mechanics* or *many-body (quantum and classical) dynamics* contact [Katja Klobas](https://scholar.google.com/citations?user=1S7B9UMAAAAJ)
+## Talks
+
+Talks
+- Title: **Constructing new superclasses of bent functions from known ones** (joint work with E. Pasalic and F. Zhang). The 6th International Workshop on Boolean Functions and their Applications (BFA) Dedicated to Vincent Rijmen’s 50th anniversary, September 6 – September 10, 2021 Rosendal, Norway / Hybrid.
+- Title: [**The Zodiac Killer’s cipher**](https://www.youtube.com/watch?v=16YufVWBGzQ). "Matematika s kavca" organised by II. gimnazija Maribor for gifted high-school students in the area of mathematics, January 12, 2021.
+- Title: **Some classifications of bent functions*. Mathematical Colloquium at the Department of Mathematics, Faculty of Mathematics and Natural Sciences in Tuzla, December 25, 2019.
+- Title: **On the notion of duals of certain almost bent functions** (joint work with E. Pasalic and S. Hodžic). Middle-European Conference on Applied Theoretical Computer Science, October 10 - 11, 2019, Koper, Slovenia.
+- Title: **Zero-knowledge proofs**. Mathematical Colloquium at the Department of Mathematics, Faculty of Mathematics and Natural Sciences in Tuzla, Februrary 2, 2019.
+
+
+## Something Extra
+- Thank you [Nina](https://ninakl.github.io/) for allowing me to steal your template.
+
