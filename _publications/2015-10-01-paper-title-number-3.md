@@ -6,7 +6,7 @@ excerpt:
 date: 2022-03-28
 venue: 'Cryptography and Communications'
 paperurl: 'https://doi.org/10.1007/s12095-022-00566-7'
-citation: 'Bapić, A., Pasalic, E., Zhang, F. et al. Constructing new superclasses of bent functions from known ones. <i>Cryptogr. Commun</i>. 14, 1229–1256 (2022). https://doi.org/10.1007/s12095-022-00566-7'
+citation: 
 ---
 
 

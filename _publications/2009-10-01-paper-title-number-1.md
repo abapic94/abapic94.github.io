@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Constructions of (vectorial) bent functions outside the completed Maiorana–McFarland class"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 
+date: 2022-06-15
+venue: 'Discrete Applied Mathematics'
+paperurl: 'https://doi.org/10.1016/j.dam.2022.02.010'
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**Abstract:** Two new classes of bent functions derived from the Maiorana–McFarland ($\\mathcal{M}$) class, so-called $\\mathcal{C}$ and $\\mathcal{D}$, were introduced by Carlet (1993) almost three decades ago. In Zhang (2020) sufficient conditions for specifying bent functions in $\\mathcal{C}$ and $\\mathcal{D}$ which are outside the completed $\\mathcal{M}$ class, denoted by $\\mathcal{M}^{\\#}$, were given. Furthermore in Pasalic et al. (2021) the notion of vectorial bent functions which are weakly or strongly outside $\\mathcal{M}^{\\#}$, referring respectively to the case whether some or all nonzero linear combinations (called components) of its coordinate functions are in class $\\mathcal{C}$ (or $\\mathcal{D}$) but provably outside $\\mathcal{M}^{\\#}$, was introduced. In this article we continue the work of finding new instances of vectorial bent functions weakly/strongly outside $\\mathcal{M}^{\\#}$ using a different approach. Namely, a generic method for the construction of vectorial bent $(n,t)$-functions of the form $F(x,y)=G(x,y)+H(x,y)$, $n=2m$, $t|m$, was recently proposed in Bapić (2021), where $G$ is a given bent $(n,t)-$function satisfying certain properties and $H$ is an arbitrary $(t,t)$-function having certain form. We introduce a new superclass of bent functions $\\mathcal{SC}$ which contains the classes $\\mathcal{D}\_0$ and $\\mathcal{C}$ whose members are provably outside $\\mathcal{M}^{\\#}$. Most notably, using indicators of the form $\mathbf{1}_{L^{\\perp}}(x,y)+\\delta_0(x)$ to define members of this class leads for the first time to modifications of the $\\mathcal{M}$ class performed on sets rather than on affine subspaces. We also show that for suitable choices of $H$, the function $F$ is a vectorial bent function weakly/strongly outside the class $\\mathcal{M}^{\\#}$. In this context, a new concept of being almost strongly outside $\\mathcal{M}^{\\#}$ is introduced and some families of vectorial bent functions with this property are given. Furthermore, we provide two new families of vectorial bent functions strongly outside $\\mathcal{M}^{\\#}$ (considered to be an intrinsically hard problem) whose output dimension is greater than $2$, thus giving first examples of such functions in the literature.
