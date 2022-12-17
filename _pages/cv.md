@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Tuzla, 2017
+* M.S. in Mathematics, University of Primorska, 2019
+* Ph.D, University of Primorska, 2022 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2020 - December 2022: Young Researcher
+  * University of Primorska, IAM
+  * Duties included: Writing papers on relevant topics, participating at conferences and seminars, covering tutorials on certain Math subjects available at the university.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2019 - November 2020: Teaching Assistant
+  * University of Primorska, FAMNIT
+  * Duties included: Writing papers on relevant topics, participating at conferences and seminars, covering tutorials on certain Math subjects available at the university.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Wolfram Mathematica
+* SAGE
+* Geogebra
+* LaTex
+* MS Office
 
 Publications
 ======
@@ -48,12 +45,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2020-2022: Algebra IV - Algebraic Structures, UP FAMNIT
+* 2019: Analysis II - Infinitezimal Calculus, UP FAMNIT
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
