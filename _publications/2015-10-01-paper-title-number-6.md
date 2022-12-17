@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-6
 excerpt: 
 date: 2020-07-01
-venue: 
+venue: Study material - UP FAMNIT
 paperurl: 'https://www.famnit.upr.si/sl/resources/files/knjiznica/studijsko-gradivo/bapic2020analizaii-zbirkaresenihnalog.pdf'
 citation: 
 ---
