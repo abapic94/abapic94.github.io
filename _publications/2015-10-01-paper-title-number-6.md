@@ -1,7 +1,7 @@
 ---
 title: "Analiza II - Infinitezimalni račun: zbirka rešenih nalog"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-6
+permalink: /publication/analysis2
 excerpt: 
 date: 2020-07-01
 venue: Study material - UP FAMNIT

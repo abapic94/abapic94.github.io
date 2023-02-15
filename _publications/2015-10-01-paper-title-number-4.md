@@ -1,7 +1,7 @@
 ---
 title: "A new method for secondary constructions of vectorial bent functions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publication/secondaryVBF
 excerpt: 
 date: 2021-04-09
 venue: 'Design, Codes and Cryptography'

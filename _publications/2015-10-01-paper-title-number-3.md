@@ -1,7 +1,7 @@
 ---
 title: "Constructing new superclasses of bent functions from known ones"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/SCandCD
 excerpt: 
 date: 2022-03-28
 venue: 'Cryptography and Communications'

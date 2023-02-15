@@ -1,7 +1,7 @@
 ---
 title: "Quadratic almost bent functions - Their partial characterization and design in the spectral domain"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/almostbent
 excerpt: 
 date: 2022-12-15
 venue: 'Discrete Applied Mathematics'

@@ -1,7 +1,7 @@
 ---
 title: "Constructions of (vectorial) bent functions outside the completed Maiorana–McFarland class"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/VBFoutsideMM
 excerpt: 
 date: 2022-06-15
 venue: 'Discrete Applied Mathematics'

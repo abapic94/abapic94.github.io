@@ -1,7 +1,7 @@
 ---
 title: "Selected Topics in Numerical Mathematics: Lecture Notes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-7
+permalink: /publication/numerical
 excerpt: 
 date: 2019-07-01
 venue: Study material - UP FAMNIT
