@@ -5,7 +5,7 @@ permalink: /publication/BapicEtAl2023
 excerpt: 
 date: 2023-02-15
 venue: 'Design, Codes and Cryptography'
-paperurl: 'http://dx.doi.org/10.1007/s10623-022-01180-7'
+paperurl: 'https://link.springer.com/article/10.1007/s10623-022-01180-7'
 citation: 
 ---
 
