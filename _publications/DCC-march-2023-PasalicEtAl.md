@@ -1,0 +1,12 @@
+---
+title: "Explicit infinite families of bent functions outside the completed Maiorana–McFarland class"
+collection: publications
+permalink: /publication/DCCExplicitOutsideMM
+excerpt: 
+date: 2023-03-22
+venue: 'Design, Codes and Cryptography'
+paperurl: 'https://doi.org/10.1007/s10623-023-01204-w'
+citation: 
+---
+
+**Abstract:** During the last five decades, many different secondary constructions of bent functions were proposed in the literature. Nevertheless, apart from a few works, the question about the class inclusion of bent functions generated using these methods is rarely addressed. Especially, if such a “new” family belongs to the completed Maiorana–McFarland ($\\mathcal{M}^{\\#}$) class then there is no proper contribution to the theory of bent functions. In this article, we provide some fundamental results related to the inclusion in $\\mathcal{M}^{\\#}$ and eventually we obtain many infinite families of bent functions that are provably outside $\\mathcal{M}^{\\#}$. The fact that a bent function f is in/outside $\\mathcal{M}^{\\#}$ if and only if its dual is in/outside $\\mathcal{M}^{\\#}$ is employed in the so-called 4-decomposition of a bent function on $\\mathbb{F}_2^n$, which was originally considered by Canteaut and Charpin (IEEE Trans Inf Theory 49(8):2004–2019, 2003) in terms of the second-order derivatives and later reformulated in (Hodžić et al. in IEEE Trans Inf Theory 65(11):7554–7565, 2019) in terms of the duals of its restrictions to the cosets of an $(n−2)$-dimensional subspace V. For each of the three possible cases of this 4-decomposition of a bent function (all four restrictions being bent, semi-bent, or 5-valued spectra functions), we provide generic methods for designing bent functions provably outside $\\mathcal{M}^{\\#}$. For instance, for the elementary case of defining a bent function $h(x,y_1,y_2)=f(x)\\oplus y_1y_2$ on $\\mathbb{F}_2^{n+2}$ using a bent function $f$ on $\\mathbb{F}_2^n$, we show that $h$ is outside $\\mathcal{M}^{\\#}$ if and only if $f$ is outside $\\mathcal{M}^{\\#}$. This approach is then generalized to the case when two bent functions are used. More precisely, the concatenation $f_1||f_1||f_2||(1\\oplus f_2)$ also gives bent functions outside $\\mathcal{M}^{\\#}$ if $f_1$ or $f_2$ is outside $\\mathcal{M}^{\\#}$. The cases when the four restrictions of a bent function are semi-bent or 5-valued spectra functions are also considered and several design methods of constructing infinite families of bent functions outside $\\mathcal{M}^{\\#}$ are provided.
