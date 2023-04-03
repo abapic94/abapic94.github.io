@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+* April 2023 - currently: Mathematics Teacher
+  * Landesschulamt Sachsen-Anhalt
+
+* March 2023: Mathematics Teacher
+  * Primary school "Harmani II", Bihać
+
 * November 2020 - December 2022: Young Researcher
   * University of Primorska, IAM
   * Duties included: Writing papers on relevant topics, participating at conferences and seminars, covering tutorials on certain Math subjects available at the university.
