@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Recently completed and defended my Ph.D thesis entitled [**Constructing new superclasses of bent functions and further constructions of cryptographically significant mappings outside M#**](https://www.famnit.upr.si/sl/studij/zakljucna_dela/view/1147) in December 2022 at the Univeristy of Primorska under the supervison of [Enes Pasalic](https://www.researchgate.net/profile/Enes-Pasalic) and co-supervision of [Samir Hodžić](https://www.researchgate.net/profile/Samir-Hodzic).
+I completed and successfully defended my Ph.D. thesis entitled “Constructing New Superclasses of Bent Functions and Further Constructions of Cryptographically Significant Mappings Outside M#” in December 2022 at the University of Primorska. My doctoral research was supervised by Prof. Enes Pasalic, with Dr. Samir Hodžić as co-supervisor.
 
-Currently working as a Mathematics Teacher in the Saxony-Anhalt Region in Germany.
+I am currently working as a high school mathematics teacher in the state of Saxony-Anhalt, Germany. In addition, I serve as an Honorary Lecturer at the DIPLOMA Hochschule, where I teach basic higher-level mathematics for industrial engineering students, covering topics in calculus and linear algebra.
 
-
-You can contact me via e-mail: [amarbapic7 [at] gmail [dot] com](mailto:amarbapic7@gmail.com).
+Although I am formally retired from active academic research, I continue to contribute to the scientific community through peer reviewing and by remaining engaged with developments in my research field.
 

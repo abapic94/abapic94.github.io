@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* Mai 2025 - currently: Honorary Lecturer
+  * DIPLOMA Hochschule
+
 * April 2023 - currently: Mathematics Teacher
   * Landesschulamt Sachsen-Anhalt
 
